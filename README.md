@@ -3,6 +3,17 @@
 ## Overview
 Analysis of a 2-year criminal network with 101 players, disturbed by police actions. Utilizes graph visualization and centrality measures to identify key figures and trends. Highlights the effectiveness of degree centrality in revealing vital network players and their evolving roles.
 
+## Methodology
+The analysis began by organizing the data into a networkx graph to explore connections between players. The methodology included:
+
+1. Data Organization: Preparing and structuring data for analysis.
+2. Graph Visualization: Creating undirected graphs to visualize the network.
+3. Network Analysis: Examining nodes and edges, including centrality measures (degree, betweenness, and eigenvector) to identify central players.
+4. Centrality Analysis: Calculating and interpreting centrality measures to determine the most connected, influential, and powerful players.
+5. Evolution Study: Monitoring changes across all phases to predict future network behaviors, utilizing link analysis and disruption techniques to understand the network's hierarchy and adaptability.
+   
+This approach facilitated a deep dive into the network's structure, highlighting the roles and importance of various players over time.
+
 ## Data Source
 The dataset is housed in the CAVIAR directory of a comprehensive data archive, representing 11 distinct phases of wiretap data collected during the operation from 1994 to 1996. This operation was a collaborative effort between the Montréal police and the Royal Canadian Mounted Police of Canada.
 
@@ -55,8 +66,10 @@ Below is a table outlining the key figures within the criminal network and their
 ## Analysis
 This project undertakes the analysis of time-varying network data to map out the structure, dynamics, and evolution of the criminal network. By leveraging graph visualization and centrality measures, we reveal the adaptation strategies of network players in response to law enforcement interventions.
 
-## Research Paper
+## Conclusion
+Analysis reveals Daniel Serero (n1) as the network's mastermind, consistently the most connected across phases. Pierre Perlini (n3) emerges as a key figure, especially post-Phase 4, indicating a hierarchical network evolution with well-structured roles. Ernesto Morales (n12) expands the network post-seizure, showcasing the network's resilience and strategic adaptability. This study highlights the network's capacity for quick supplier changes and the formation of a hierarchical structure over time.
 
+## Research Paper
 For further reading and a deeper understanding of the methodologies used, refer to the research paper available at [Modeling Verdict Outcomes Using Social Network Measures](https://www.researchgate.net/publication/292304919_Modeling_Verdict_Outcomes_Using_Social_Network_Measures_The_Watergate_and_Caviar_Network_Cases).
 
 ## Usage
