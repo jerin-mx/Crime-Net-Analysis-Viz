@@ -24,47 +24,33 @@ The investigation's focus was on a network comprising 110 players, including tra
 
 ## Key Players
 
-The investigation identified several critical roles within the criminal network, each contributing to its operations in distinct ways:
+Below is a table outlining the key figures within the criminal network and their respective roles:
 
-- **Daniel Serero (n1):** Mastermind of the network.
-- **Pierre Perlini (n3):** 
-  - Principal lieutenant of Serero, executing his instructions.
-- **Alain (n83) and Gérard (n86) Levy:** 
-  - Investors and transporters of money.
-- **Wallace Lee (n85):** 
-  - Manages financial affairs as the network's accountant.
-- **Gaspard Lino (n6):** 
-  - Broker located in Spain.
-- **Samir Rabbat (n11):** 
-  - Provider in Morocco.
-- **Lee Gilbert (n88):** 
-  - Trusted financial manager for Wallace Lee, later became an informer.
-- **Beverly Ashton (n106):** 
-  - Spouse of Lino, involved in transporting money and documents.
-- **Antonio Iannacci (n89):** 
-  - Investor.
-- **Mohammed Echouafni (n84):** 
-  - Moroccan investor.
-- **Richard Gleeson (n5), Bruno de Quinzio (n8), Gabrielle Casale (n76):** 
-  - Tasked with recuperating marijuana.
-- **Roderik Janouska (n77):** 
-  - Individual with airport contacts.
-- **Patrick Lee (n87):** 
-  - Investor.
-- **Salvatore Panetta (n82):** 
-  - Manager of transport arrangements.
-- **Steve Cunha (n96):** 
-  - Transport manager and owner of a legitimate import company, later an informer.
-- **Ernesto Morales (n12):** 
-  - Principal organizer of cocaine import, acting as an intermediary between Colombians and the Serero organization.
-- **Oscar Nieri (n17):** 
-  - Handyman for Morales.
-- **Richard Brebner (n80):** 
-  - Transported cocaine from the US to Montréal.
-- **Ricardo Negrinotti (n33):** 
-  - Took possession of cocaine in the US to hand off to Brebner.
-- **Johnny Pacheco (n16):** 
-  - Cocaine provider.
+| Name                  | Unique ID | Role                                                                                   |
+|-----------------------|-----------|----------------------------------------------------------------------------------------|
+| Daniel Serero         | n1        | Mastermind of the network.                                                             |
+| Pierre Perlini        | n3        | Principal lieutenant of Serero, executing his instructions.                            |
+| Alain Levy            | n83       | Investor and transporter of money.                                                     |
+| Gérard Levy           | n86       | Investor and transporter of money.                                                     |
+| Wallace Lee           | n85       | Manages financial affairs as the network's accountant.                                 |
+| Gaspard Lino          | n6        | Broker located in Spain.                                                               |
+| Samir Rabbat          | n11       | Provider in Morocco.                                                                   |
+| Lee Gilbert           | n88       | Trusted financial manager for Wallace Lee, later became an informer.                   |
+| Beverly Ashton        | n106      | Spouse of Lino, involved in transporting money and documents.                          |
+| Antonio Iannacci      | n89       | Investor.                                                                               |
+| Mohammed Echouafni    | n84       | Moroccan investor.                                                                     |
+| Richard Gleeson       | n5        | Tasked with recuperating marijuana.                                                     |
+| Bruno de Quinzio      | n8        | Tasked with recuperating marijuana.                                                     |
+| Gabrielle Casale      | n76       | Tasked with recuperating marijuana.                                                     |
+| Roderik Janouska      | n77       | Individual with airport contacts.                                                       |
+| Patrick Lee           | n87       | Investor.                                                                               |
+| Salvatore Panetta     | n82       | Manager of transport arrangements.                                                      |
+| Steve Cunha           | n96       | Transport manager and owner of a legitimate import company, later an informer.          |
+| Ernesto Morales       | n12       | Principal organizer of cocaine import, intermediary between Colombians and the network. |
+| Oscar Nieri           | n17       | Handyman for Morales.                                                                   |
+| Richard Brebner       | n80       | Transported cocaine from the US to Montréal.                                            |
+| Ricardo Negrinotti    | n33       | Took possession of cocaine in the US to hand off to Brebner.                            |
+| Johnny Pacheco        | n16       | Cocaine provider.                                                                       |
 
 ## Analysis
 This project undertakes the analysis of time-varying network data to map out the structure, dynamics, and evolution of the criminal network. By leveraging graph visualization and centrality measures, we reveal the adaptation strategies of network players in response to law enforcement interventions.
