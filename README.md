@@ -74,3 +74,10 @@ For further reading and a deeper understanding of the methodologies used, refer 
 
 ## Usage
 Data files (e.g.,'phase1.csv', 'phase2.csv', ...) contain wiretap correspondences between network players, identified by unique ids. The project includes scripts to convert these ids to strings (e.g., 'n1', 'n2', ...) for better readability and creates network graphs for each phase, stored in the 'G' dictionary.
+
+## Contributing
+Contributions to the project are welcome. Please refer to the contributing guidelines for more details.
+
+## Liscense
+Done under MITx Data Analysis Course
+
